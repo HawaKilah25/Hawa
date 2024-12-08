@@ -3,6 +3,7 @@ exercise
 ## 👋 Hello, I'm Tengku Nurhawa Aqilah Binti Tengku Ngah!
 
 🎓 **21-year-old Student** passionate about technology, coding, and continuous learning.
+study at uctati
 
 🌱 **Currently exploring**:
 - Programming languages (Python, JavaScript, etc.)
